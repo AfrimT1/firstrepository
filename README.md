@@ -1,3 +1,4 @@
+
 # My first Project
 Kodi i rri:
 
@@ -5,5 +6,4 @@ Kodi i rri:
     console.log(x)
 
 ## Contact me
-[]my email(mailto:%20trstenaafrim@gmail.com)
-    
+[my email](mailto:%20trstenaafrim@gmail.com)
