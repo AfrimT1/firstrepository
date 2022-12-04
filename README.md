@@ -1,9 +1,9 @@
-#First Project 
+# My first Project
+Kodi i rri:
 
-Kodi i ri:
+    let x = 100
+    console.log(x)
 
-let x = 100
-console.log(x)
-
-##contact me 
-[my emai] (mailto: trstenaafrim)
+## Contact me
+[]my email(mailto:%20trstenaafrim@gmail.com)
+    
